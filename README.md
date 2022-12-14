@@ -5,7 +5,7 @@
 <img src="https://algol.dev/wp-content/uploads/2020/10/03_b.png" width="800px" />
 </div>
 
-### Repositório de estudos de ATAL na linguagem Python.
+### Repositório de estudos de ATAL na linguagem <img src="https://github.com/ialysousa/devicon/blob/master/icons/python/python-original.svg" alt="c" height=40/>.
   
 </div>
 
